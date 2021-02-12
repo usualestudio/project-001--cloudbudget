@@ -3,6 +3,9 @@ Projeto de mentoria HTML, CSS.
 
 **Duplique esse projeto no Figma 👉** - [**🔗 Design do projeto**](https://www.figma.com/file/w7EJICBzH8sZ08Zn9btj2E/Project-001-CloudBudget?node-id=1%3A2)
 
+Fonte:
+[© Mohammad Ali's Freebie](https://dribbble.com/shots/8449132-CloudBudget-Business-Landing-Page-Figma-Freebie)
+
 ## Instruções
 
 ### 001 - Design
