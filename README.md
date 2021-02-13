@@ -22,3 +22,4 @@ Primeiro você precisa ter o arquivo editável do design e pegar todos os assets
 ### Videos
 1. [Figma: Duplicando projeto, mexendo no Figma e exportando assets](https://www.loom.com/share/c5f152b3a2e249f19147052c894e91a8)
 2. [Github, Figma e TinyPNG | Clonando o projeto local, exportando imagens e vetores](https://www.loom.com/share/65f50ea4400941b9af7dd1c9c3ffb5af)
+3. [VSCode Extensões, Emmet, Snippets, começando o HTML](https://www.loom.com/share/eda0e0e79ec74fdfbc79d30ecfa54d65)
