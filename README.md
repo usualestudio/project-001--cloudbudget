@@ -18,3 +18,7 @@ Primeiro você precisa ter o arquivo editável do design e pegar todos os assets
 ### 002 - Setup
 1. Criar os arquivos index.html e style.css
 2. 
+
+### Videos
+1. [Figma: Duplicando projeto, mexendo no Figma e exportando assets](https://www.loom.com/share/c5f152b3a2e249f19147052c894e91a8)
+2. [Github, Figma e TinyPNG | Clonando o projeto local, exportando imagens e vetores](https://www.loom.com/share/65f50ea4400941b9af7dd1c9c3ffb5af)
