@@ -24,3 +24,6 @@ Primeiro você precisa ter o arquivo editável do design e pegar todos os assets
 2. [Github, Figma e TinyPNG | Clonando o projeto local, exportando imagens e vetores](https://www.loom.com/share/65f50ea4400941b9af7dd1c9c3ffb5af)
 3. [VSCode Extensões, Emmet, Snippets, começando o HTML](https://www.loom.com/share/eda0e0e79ec74fdfbc79d30ecfa54d65)
 4. [Primeiro commit](https://www.loom.com/share/2da8868d7e9c4397b4f4dfa94d5603a7)
+5. [Baixando Prepros: atualizando a tela enquanto salva arquivos](https://www.loom.com/share/f18223628b0e48298f31d76941d0cb86)
+6. [Criando HTML do Header](https://www.loom.com/share/f9ba6ce402d34690a58ce70850aa3bdd)
+7. [Setup CSS + Estilizando o Header](https://www.loom.com/share/de2b3c1673b248cca517a331370b2366)
